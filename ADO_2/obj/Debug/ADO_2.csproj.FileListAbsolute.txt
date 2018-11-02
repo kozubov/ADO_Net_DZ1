@@ -1,0 +1,12 @@
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\bin\Debug\ADO_2.exe.config
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\bin\Debug\ADO_2.exe
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\bin\Debug\ADO_2.pdb
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\obj\Debug\ADO_2.Form1.resources
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\obj\Debug\ADO_2.Properties.Resources.resources
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\obj\Debug\ADO_2.csproj.GenerateResource.cache
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\obj\Debug\ADO_2.csproj.CoreCompileInputs.cache
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\obj\Debug\ADO_2.exe
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\obj\Debug\ADO_2.pdb
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\obj\Debug\ADO_2.csprojAssemblyReference.cache
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\obj\Debug\ADO_2.User_View.resources
+D:\999\ADO NET\ADO_2\ADO_2\ADO_2\ADO_2\obj\Debug\ADO_2.User_Add.resources
